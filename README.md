@@ -1,3 +1,5 @@
+![Logo](logo.svg)
+
 # Minh Nhat is me
 
 ###  Introduction
