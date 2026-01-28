@@ -1,4 +1,4 @@
-![Logo](logo.svg)
+<img src="logo.svg" width="200" alt="Logo" />
 
 # Minh Nhat is me
 
