@@ -1,4 +1,8 @@
-<img src="logo.svg" width="50" alt="Logo" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="logo-black.svg">
+  <img alt="Logo" src="logo.svg" width="50">
+</picture>
 
 ###  Introduction
 
